@@ -4,7 +4,7 @@ class Main
     {
         int target=5;
         int i=0;
-        for( String name="a",gender="male";   ; )
+        for( String name="mohan is a",gender="male";   ; )
         {
             if(i>=target)
             {
